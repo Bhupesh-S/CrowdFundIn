@@ -32,12 +32,4 @@ CrowdFundIn/
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 
-## Environment Variables
 
-Create a `.env` file in the backend directory:
-```
-MONGODB_URI=mongodb://localhost:27017/crowdfundin
-JWT_SECRET=your_jwt_secret
-STRIPE_SECRET_KEY=your_stripe_secret_key
-PORT=5000
-```
